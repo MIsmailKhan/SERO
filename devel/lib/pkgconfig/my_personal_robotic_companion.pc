@@ -1,0 +1,8 @@
+prefix=/home/ismail/catkin_ws2/devel
+
+Name: my_personal_robotic_companion
+Description: Description of my_personal_robotic_companion
+Version: 1.0.0
+Cflags: -I/home/ismail/catkin_ws2/src/my_personal_robotic_companion/my_personal_robotic_companion/include
+Libs: -L/home/ismail/catkin_ws2/devel/lib 
+Requires: 

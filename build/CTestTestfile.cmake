@@ -1,0 +1,29 @@
+# CMake generated Testfile for 
+# Source directory: /home/ismail/catkin_ws2/src
+# Build directory: /home/ismail/catkin_ws2/build
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+SUBDIRS(gtest)
+SUBDIRS(my_personal_robotic_companion/robot_model/robot_model)
+SUBDIRS(my_personal_robotic_companion/rosserial/rosserial)
+SUBDIRS(my_personal_robotic_companion/rosserial/rosserial_arduino)
+SUBDIRS(my_personal_robotic_companion/rosserial/rosserial_client)
+SUBDIRS(my_personal_robotic_companion/rosserial/rosserial_msgs)
+SUBDIRS(my_personal_robotic_companion/rosserial/rosserial_python)
+SUBDIRS(my_personal_robotic_companion/rosserial/rosserial_xbee)
+SUBDIRS(my_personal_robotic_companion/teleop_twist_keyboard)
+SUBDIRS(my_personal_robotic_companion/robot_model/urdf_parser_plugin)
+SUBDIRS(my_personal_robotic_companion/beginner_tutorials)
+SUBDIRS(my_personal_robotic_companion/robot_model/collada_parser)
+SUBDIRS(my_personal_robotic_companion/robot_model/joint_state_publisher)
+SUBDIRS(my_personal_robotic_companion/depthimage_to_laserscan)
+SUBDIRS(my_personal_robotic_companion/hokuyo_node)
+SUBDIRS(my_personal_robotic_companion/rosserial/rosserial_server)
+SUBDIRS(my_personal_robotic_companion/my_personal_robotic_companion)
+SUBDIRS(my_personal_robotic_companion/rosserial/rosserial_embeddedlinux)
+SUBDIRS(my_personal_robotic_companion/rosserial/rosserial_windows)
+SUBDIRS(my_personal_robotic_companion/learning_tf)
+SUBDIRS(my_personal_robotic_companion/robot_model/urdf)
+SUBDIRS(my_personal_robotic_companion/robot_model/collada_urdf)
+SUBDIRS(my_personal_robotic_companion/robot_model/kdl_parser)

@@ -1,0 +1,8 @@
+prefix=/home/ismail/catkin_ws2/devel
+
+Name: collada_parser
+Description: Description of collada_parser
+Version: 1.11.7
+Cflags: -I/home/ismail/catkin_ws2/src/my_personal_robotic_companion/robot_model/collada_parser/include -I/usr/include
+Libs: -L/home/ismail/catkin_ws2/devel/lib -lcollada_parser
+Requires: roscpp urdf_parser_plugin

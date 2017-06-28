@@ -1,0 +1,8 @@
+prefix=/home/ismail/catkin_ws2/devel
+
+Name: urdf
+Description: Description of urdf
+Version: 1.11.7
+Cflags: -I/home/ismail/catkin_ws2/src/my_personal_robotic_companion/robot_model/urdf/include -I/usr/include
+Libs: -L/home/ismail/catkin_ws2/devel/lib -lurdf -l:/usr/lib/x86_64-linux-gnu/liburdfdom_sensor.so -l:/usr/lib/x86_64-linux-gnu/liburdfdom_model_state.so -l:/usr/lib/x86_64-linux-gnu/liburdfdom_model.so -l:/usr/lib/x86_64-linux-gnu/liburdfdom_world.so -l:/usr/lib/x86_64-linux-gnu/libconsole_bridge.so -l:/usr/lib/x86_64-linux-gnu/libboost_thread.so -l:/usr/lib/x86_64-linux-gnu/libpthread.so
+Requires: rosconsole_bridge roscpp

@@ -1,0 +1,8 @@
+prefix=/home/ismail/catkin_ws2/devel
+
+Name: rosserial_server
+Description: Description of rosserial_server
+Version: 0.7.1
+Cflags: -I/home/ismail/catkin_ws2/src/my_personal_robotic_companion/rosserial/rosserial_server/include
+Libs: -L/home/ismail/catkin_ws2/devel/lib 
+Requires: roscpp rosserial_msgs topic_tools

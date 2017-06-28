@@ -1,0 +1,8 @@
+prefix=/home/ismail/catkin_ws2/devel
+
+Name: collada_urdf
+Description: Description of collada_urdf
+Version: 1.11.7
+Cflags: -I/home/ismail/catkin_ws2/src/my_personal_robotic_companion/robot_model/collada_urdf/include
+Libs: -L/home/ismail/catkin_ws2/devel/lib -lcollada_urdf
+Requires: angles collada_parser resource_retriever urdf geometric_shapes tf
